@@ -20,10 +20,10 @@ This mod was made entirely in Aseprite and MCreator, and ill be making more mods
 
 # Changelog:
 
-## 1.0
+## 1.0 (Downloads.rar)
 
 - Mod was created
 
-## 1.1
+## 1.1 (RPFood.zip)
 - Added more items
 - Fixed Pepsi from "Eating" to actually drinking
