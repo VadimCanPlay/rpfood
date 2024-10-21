@@ -1,6 +1,6 @@
 # RPFood
 RPFood is a mod with some more food for minecraft where you can use it in fastfood places, etc.
-
+Minecraft Version: 1.20.1 Forge
 Give me more food suggestions to the mod to improve it!
 
 Recipes:
@@ -17,3 +17,13 @@ Recipes:
 ![image](https://github.com/user-attachments/assets/d9d5c8b1-a1d4-451b-9a69-db26d88f7056)
 
 This mod was made entirely in Aseprite and MCreator, and ill be making more mods lol
+
+# Changelog:
+
+## 1.0
+
+- Mod was created
+
+## 1.1
+- Added more items
+- Fixed Pepsi from "Eating" to actually drinking
