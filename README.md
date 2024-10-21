@@ -6,7 +6,7 @@ Minecraft Version: 1.20.1 Forge
 Give me more food suggestions to the mod to improve it!
 
 
-This mod was made entirely in Aseprite and MCreator, and ill be making more mods lol
+Btw this mod was made entirely in Aseprite and MCreator, and ill be making more mods lol
 
 # Changelog:
 
