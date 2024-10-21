@@ -17,3 +17,6 @@ Btw this mod was made entirely in Aseprite and MCreator, and ill be making more 
 ## 1.1 (RPFood.zip)
 - Added more items
 - Fixed Pepsi from "Eating" to actually drinking
+
+## 1.1.1 (RPFood1.1.1.jar)
+- Fixed error at launch of Minecraft with mod installed
