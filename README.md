@@ -24,3 +24,6 @@ Btw this mod was made entirely in Aseprite and MCreator, and ill be making more 
 ## 1.2 (RPFood1.2.zip)
 - Added more items
 - thats all lol
+
+## 1.2.1 (RPFood1.2.1.zip)
+- Fixed "Fried Chicken" to be eatable even when youre not hungry
