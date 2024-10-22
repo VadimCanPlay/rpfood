@@ -27,3 +27,8 @@ Btw this mod was made entirely in Aseprite and MCreator, and ill be making more 
 
 ## 1.2.1 (RPFood1.2.1.zip)
 - Fixed "Fried Chicken" to be eatable even when youre not hungry
+
+## 1.2.2 (RPFood1.2.2.zip)
+- Added empty bottles of ketchup and mustard
+- Added salt & sugar
+- Added and changed recipes
