@@ -38,3 +38,8 @@ Btw this mod was made entirely in Aseprite and MCreator, and ill be making more 
 - Renamed Creative mode tab to just "RPFood Mod"
 - Fixed empty mustard bottle and recipes
 New mod incoming: RPUtils
+
+## 1.3.1 (small bug fixes)
+- Fixed Sprite and Milkshake sounds
+- Fixed Chips to be always eatable
+By the way, stay tuned cuz after my homework ill start working on RPUtils 1.0
