@@ -32,3 +32,9 @@ Btw this mod was made entirely in Aseprite and MCreator, and ill be making more 
 - Added empty bottles of ketchup and mustard
 - Added salt & sugar
 - Added and changed recipes
+
+## 1.3: HUGE update (RPFood1.3.zip)
+- Added BUNCH new items (total now: 43)
+- Renamed Creative mode tab to just "RPFood Mod"
+- Fixed empty mustard bottle and recipes
+New mod incoming: RPUtils
